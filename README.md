@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - miguel.e.rivera.rios@gmail.com
+Miguel Rivera Rios - miguel.e.rivera.rios@gmail.com
 
 Project Link: [https://github.com/miguelriverarios/MRR-Simple-Inject-Library](https://github.com/miguelriverarios/MRR-Simple-Inject-Library.git)
 
