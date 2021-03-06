@@ -169,9 +169,9 @@ See the [open issues](https://github.com/miguelriverarios/MRR-Simple-Inject-Libr
 
 ### Current Limitations
 
-- No support for checking or resolving circular dependencies
-- No check for dependency depth within stack (could result in long runtimes if dependencies are considerably layerd)
-- Services must be defined as classes (ie no functions, etc)
+- [No support for checking or resolving circular dependencies](https://github.com/miguelriverarios/MRR-Simple-Inject-Library/issues/1)
+- [No check for dependency depth within stack (could result in long runtimes if dependencies are considerably layered)](https://github.com/miguelriverarios/MRR-Simple-Inject-Library/issues/2)
+- [Services must be defined as classes (ie no functions, etc)](https://github.com/miguelriverarios/MRR-Simple-Inject-Library/issues/3)
 
 <!-- CONTRIBUTING -->
 
