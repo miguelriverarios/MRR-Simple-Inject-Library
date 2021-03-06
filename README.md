@@ -64,7 +64,7 @@ If your terminal returns a version number, you're good to go. npm is distributed
 npm -v
 ```
 
-[Go here if you do not have node install](https://nodejs.org/en/). If you want to update npm, use the following command in terminal:
+[Go here if you do not have node installed](https://nodejs.org/en/). If you want to update npm, use the following command in terminal:
 
 ```sh
 npm install npm@latest -g
@@ -81,7 +81,7 @@ npm install --global yarn
 
 1. Clone the repo into your local directory
    ```sh
-   git clone https://github.com/miguelriverarios/mrr-simple-inject-library.git
+   git clone https://github.com/miguelriverarios/MRR-Simple-Inject-Library.git
    ```
 2. Install NPM packages
 
