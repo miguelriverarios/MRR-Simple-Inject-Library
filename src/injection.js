@@ -89,7 +89,7 @@
         throw this.ERROR_CONSTRUCTOR;
       }
 
-      // addes the signature to the IOC container
+      // adds the signature to the IOC container
       this.dictionary[label] = () => {
         const signatureLength = signature.length;
         const Constructor = signature[signatureLength - 1];
