@@ -1,4 +1,5 @@
 <h3 align="center">MRR Simple Inject IOC Framework</h3>
+<p align="center">Make sure to review the <a href="#roadmap">roadmap</a> and <a href="#current-limitations">current limitations</a> before using.</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
